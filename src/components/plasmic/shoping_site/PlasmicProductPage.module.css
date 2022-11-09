@@ -1,0 +1,122 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  padding-left: 0px;
+  min-width: 0;
+  min-height: 0;
+}
+.productBox:global(.__wab_instance) {
+  max-width: 100%;
+  object-fit: cover;
+  position: relative;
+}
+.head:global(.__wab_instance) {
+  max-width: 100%;
+  object-fit: cover;
+  position: relative;
+}
+.freeBox {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  justify-content: flex-start;
+  align-items: center;
+  min-width: 0;
+  padding: 8px;
+}
+.productTextField:global(.__wab_instance) {
+  max-width: 100%;
+  object-fit: cover;
+  color: #535353;
+  font-weight: 700;
+  font-size: 59px;
+}
+.productMedia:global(.__wab_instance) {
+  max-width: 100%;
+  object-fit: cover;
+  width: 427px;
+  height: 494px;
+  flex-shrink: 0;
+}
+.text {
+  position: relative;
+  padding-left: 255px;
+  padding-right: 309px;
+}
+.navigationBar:global(.__wab_instance) {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-bottom: 20px;
+  max-width: 100%;
+  object-fit: cover;
+  position: relative;
+  padding: 16px;
+}
+.link__k2Np4 {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+  padding: 0px;
+}
+.img__aBE {
+  object-fit: cover;
+  height: 40px;
+}
+.img__aBE > picture > img {
+  object-fit: cover;
+}
+.img__aBE > :global(.__wab_img-spacer) > img {
+  object-fit: cover;
+}
+.img__gGBlN {
+  object-fit: cover;
+}
+.img__gGBlN > picture > img {
+  object-fit: cover;
+}
+.img__gGBlN > :global(.__wab_img-spacer) > img {
+  object-fit: cover;
+}
+.img__f1TuL {
+  object-fit: cover;
+}
+.img__f1TuL > picture > img {
+  object-fit: cover;
+}
+.img__f1TuL > :global(.__wab_img-spacer) > img {
+  object-fit: cover;
+}
+.link__gtwmV {
+  position: relative;
+  width: auto;
+  height: auto;
+  max-width: 800px;
+}
+.link__satdK {
+  position: relative;
+  width: auto;
+  height: auto;
+  max-width: 800px;
+}
+.link__ixNTi {
+  position: relative;
+  width: auto;
+  height: auto;
+  max-width: 800px;
+}
